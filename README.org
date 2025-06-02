@@ -1,0 +1,7 @@
+#+title: Readme
+#+AUTHOR: Garrett Reid
+
+
+* This is a placeholder README for now. Will update soon.
+
+Just a repo for a game that I'm testing. I guess we'll see where this goes.
